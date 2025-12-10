@@ -1,8 +1,8 @@
 # Who We Are:
-🚀 Kong Studio-Pro<br>Specializing in education and technology, we strive to enhance project efficiency and accessibility for all.
+Kong Studio-Pro<br>Specializing in education and technology, we strive to enhance project efficiency and accessibility for all.
 
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kongstudiopro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kongstudiopro) 
 
 # Tech Stack:
